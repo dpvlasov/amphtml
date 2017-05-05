@@ -1028,6 +1028,7 @@ attr_lists: {
       allowed_protocol: "twitter"
       allowed_protocol: "viber"
       allowed_protocol: "whatsapp"
+      allowed_protocol: "yelp"
     }
     blacklisted_value_regex: "__amp_source_origin"
   }
@@ -1127,6 +1128,7 @@ tags: {
       allowed_protocol: "twitter"
       allowed_protocol: "viber"
       allowed_protocol: "whatsapp"
+      allowed_protocol: "yelp"
     }
     blacklisted_value_regex: "__amp_source_origin"
   }

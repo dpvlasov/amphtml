@@ -284,6 +284,7 @@ function createElementRules_() {
           'twitter': true,
           'viber': true,
           'whatsapp': true,
+          'yelp': true,
         },
       },
     },
